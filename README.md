@@ -11,7 +11,7 @@ This is a mini SQL project that demonstrates how to build a sales analytics syst
 
 ## How to Use
 1. Clone the repo or download the .sql file.
-2. Run it in any SQL environment (MySQL, SQLite, etc).
+2. Run it in any SQL environment (MySQL, SQLite,PostgreSQL etc).
 3. Explore and modify the queries.
 
 ## Sample Queries Included
